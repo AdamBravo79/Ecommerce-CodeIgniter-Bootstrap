@@ -1,7 +1,8 @@
 <p align="center"><img src="https://codeigniter.com/assets/images/ci-logo-big.png"></p>
 <p align="center">Shopping Cart Solution - CodeIgniter and Bootstrap</p>
  
-## Bootsrap Responsive Multi-Vendor, MultiLanguage Online Shop Platform
+## Bootsrap Responsive Multi-Vendor, MultiLanguage Online Shop Platform´
+## Cloned 2021-01-25
 
 Current versions:
 
